@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(244, 255, 196);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 35px;
+    align-items: center;
+    position: absolute;
+    left: 30%;
+    top: 0%;
+}
+h2{ font-size: 15px;
+    position: absolute;
+    left: 1%;
+    top: 10%;
+
+}
+a{
+    text-decoration: none;
+}
+footer{
+    align-items: center;
+    position: absolute;
+    top: 97%;
+    left: 40%;
+    background-color: black;
+    color: rgb(184, 191, 197);   
+}
+.ilustacao{
+    position: relative;
+    top: 0%;
+    display: inline;
+}
+.s80{
+    font-size: 35px;
+    align-items: center;
+    position: absolute;
+    left: 3%;
+    top: 30%;
+}
+.fontes{
+    align-items: center;
+    position: absolute;
+    left: 3%;
+    top: 57%;
+}

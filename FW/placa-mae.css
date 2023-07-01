@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(244, 255, 196);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 40px;
+align-items: center;
+position: relative;
+left: 40%;
+top: 0%;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    align-items: center;
+    position: absolute;
+    top: 97%;
+    left: 40%;
+    background-color: black;
+    color: rgb(184, 191, 197);   
+}
+.ilustacao{
+    position: relative;
+    top: 0%;
+    display: inline;
+}

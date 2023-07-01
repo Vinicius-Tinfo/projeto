@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(244, 255, 196);
+    
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+div ul li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    align-items: center;
+    position: absolute;
+    top: 97%;
+    left: 40%;
+    background-color: black;
+    color: rgb(184, 191, 197);
+    
+}
+.fale-conosco{
+    background-color: rgba(0, 0, 0, 0.37);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    border-radius: 10px;
+    align-items: center;
+    position: absolute;
+    top: 95%;
+    left: 94%; 
+}
